@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\iGroup\AndroidStudioProjects\ExporttoExcel\app\src\main\assets"><file name="DB" path="C:\Users\iGroup\AndroidStudioProjects\ExporttoExcel\app\src\main\assets\DB"/></source><source path="C:\Users\iGroup\AndroidStudioProjects\ExporttoExcel\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\iGroup\AndroidStudioProjects\ExporttoExcel\app\src\debug\assets"/></dataSet></merger>
